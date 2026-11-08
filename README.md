@@ -89,25 +89,22 @@ Open the local URL displayed in your terminal to view the website.
 
 ## 6. Screenshots of the Website
 
-### Home Page
+## 6. Screenshots of the Website
 
-![Eventify Home Page](c:\Users\QscUser\Pictures\Screenshots\Screenshot 2026-11-08 122923.png)
+### Home Page
+[![Home Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20122923.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20122923.png)
 
 ### About Page
-
-![Eventify About Page](c:\Users\QscUser\Pictures\Screenshots\Screenshot 2026-11-08 123121.png)
+[![About Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123121.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123121.png)
 
 ### Events Page
-
-![Eventify Events Page](c:\Users\QscUser\Pictures\Screenshots\Screenshot 2026-11-08 123329.png)
+[![Events Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123329.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123329.png)
 
 ### Event Details Page
-
-![Eventify Event Details](c:\Users\QscUser\Pictures\Screenshots\Screenshot 2026-11-08 123412.png)
+[![Event Details](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123412.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123412.png)
 
 ### Contact Page
-
-![Eventify Contact Page](c:\Users\QscUser\Pictures\Screenshots\Screenshot 2026-11-08 123456.png)
+[![Contact Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123456.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123456.png)
 
 ## 7. GitHub Repository
 
