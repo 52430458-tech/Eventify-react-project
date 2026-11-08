@@ -91,20 +91,27 @@ Open the local URL displayed in your terminal to view the website.
 
 ## 6. Screenshots of the Website
 
+## 6. Screenshots of the Website
+
 ### Home Page
-[![Home Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20122923.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20122923.png)
+
+[![Home Page](./screenshots/home.png)](./screenshots/home.png)
 
 ### About Page
-[![About Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123121.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123121.png)
+
+[![About Page](./screenshots/about.png)](./screenshots/about.png)
 
 ### Events Page
-[![Events Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123329.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123329.png)
+
+[![Events Page](./screenshots/events.png)](./screenshots/events.png)
 
 ### Event Details Page
-[![Event Details](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123412.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123412.png)
+
+[![Event Details](./screenshots/event-details.png)](./screenshots/event-details.png)
 
 ### Contact Page
-[![Contact Page](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123456.png)](file:///C:/Users/QscUser/Pictures/Screenshots/Screenshot%202026-11-08%20123456.png)
+
+[![Contact Page](./screenshots/contact.png)](./screenshots/contact.png)
 
 ## 7. GitHub Repository
 
