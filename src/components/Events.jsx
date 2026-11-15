@@ -120,10 +120,10 @@ function Events() {
   ];
 
   const filteredEvents = events.filter((event) => {
-    const matchesSearch = event.name
-      .toLowerCase()
-      .includes(search.toLowerCase());
-
+   const matchesSearch =
+  event.name.toLowerCase().includes(search.toLowerCase()) ||
+  event.location.toLowerCase().includes(search.toLowerCase()) ||
+  event.category.toLowerCase().includes(search.toLowerCase());
     const matchesCategory =
       category === "All" || event.category === category;
 
