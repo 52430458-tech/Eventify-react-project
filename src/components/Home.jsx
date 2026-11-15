@@ -67,6 +67,7 @@ function Home() {
               <img
                 src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=700"
                 alt="Music festival"
+                loading="lazy"
               />
 
               <span className="event-category">Music</span>
@@ -93,6 +94,7 @@ function Home() {
               <img
                 src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=700"
                 alt="Technology conference"
+                loading="lazy"
               />
 
               <span className="event-category">Technology</span>
@@ -119,6 +121,7 @@ function Home() {
               <img
                 src="https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?w=700"
                 alt="Art exhibition"
+                loading="lazy"
               />
 
               <span className="event-category">Art</span>
