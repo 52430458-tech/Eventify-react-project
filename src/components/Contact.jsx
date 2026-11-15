@@ -21,7 +21,10 @@ function Contact() {
       <div className="contact-header">
         <span className="section-label">GET IN TOUCH</span>
         <h1>Contact Us</h1>
-        <p>Have a question or need help? We'd love to hear from you.</p>
+        <p>
+          Welcome to Eventify!we're happy to connect with you.have a question or
+          need help?we'd love to hear from you.
+        </p>
       </div>
 
       <div className="contact-container">
