@@ -16,7 +16,7 @@ function Navbar() {
       </div>
 
       <Link to="/events" className="nav-btn">
-        Discover Events <span>→</span>
+        Explore Events <span>→</span>
       </Link>
     </nav>
   );
