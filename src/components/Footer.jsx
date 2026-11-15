@@ -30,6 +30,13 @@ function Footer() {
             >
               Facebook
             </a>
+            <a
+              href="https://www.linkedin.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
           </div>
         </div>
 
@@ -52,11 +59,12 @@ function Footer() {
           <Link to="/contact" className="footer-contact-btn">
             Contact Us →
           </Link>
+          <Link to="/events">Upcoming Events</Link>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <p>© 2026 Eventify. All rights reserved.</p>
+        <p>© {new Date().getFullYear()}Eventify. All rights reserved.</p>
 
         <p>Designed to create unforgettable experiences.</p>
       </div>
