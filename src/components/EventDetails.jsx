@@ -144,6 +144,7 @@ function EventDetails() {
         "Explore your creativity, learn new design skills, and create your own artistic projects. Discover new techniques and get inspired by other creative people.",
       organizer: "Eventify Team",
     },
+    
   ];
 
   const event = events.find((item) => item.id === Number(id));

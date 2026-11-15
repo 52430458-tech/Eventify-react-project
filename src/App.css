@@ -47,7 +47,7 @@ button {
 }
 
 .navbar-logo {
-  color: #a78bfa;
+  color: #c4b5fd;
   text-decoration: none;
   font-size: 30px;
   font-weight: 800;
@@ -157,7 +157,7 @@ button {
 }
 
 .hero-btn:hover {
-  background: #a78bfa;
+  background: #6240e8;
   color: white;
   transform: translateY(-3px);
 }
@@ -238,8 +238,8 @@ button {
 }
 
 .event-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 15px 35px rgba(118, 85, 246, 0.15);
+  transform: translatey(-10px) scales(1.02);
+    box-shadow: 0 15px 35px rgba(118, 85, 246, 0.15);
 }
 
 .event-image {
